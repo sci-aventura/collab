@@ -8,36 +8,43 @@
 > > 
 > > Disponible sur application mobile(iPhone, Android), desktop et sur navigateur web
 
-## Article 1 - Discutions
-Créer de nouvelle discutions en toute simplicité:
+## CHAPITRE I - Discutions
+Créer de nouvelle [discutions](https://github.com/sci-aventura/collab/discussions/1) en toute simplicité:
+### Article 1 : Announcements
  - Invitez de nouveau participant
+### Article 2 : Ideas
+ - Catégoriesez vos discutions `Partagez vos intention`, `vos idées`,  `vos envie`
+
+### Article 3 : Polls
  - Conservez un historique
- - Catégoriesez vos discutions
+### Article 4 : Q&A
  - Archivez-les
+### Article 5 : Show and tell
  - ...
 
-## Article 2 - Projets
+## CHAPITRE II - Projets
 Crée de nouveau projets.
  - Affichez vos besoins,
  - Apportez des document,
  - ...
+### Article 1 : Diagram de Gant
+### Article 2 : Priorisation
 
-## Article 3 - Discutions
-Crée de nouveau projets.
- - Partagez vos intention,
- - vos idées,
- - vos envie,
-- ...
-
-## Article 4 - Relectures
+## CHAPITRE III - Relectures
 Faites une relecture:
  - ajouter des commentaires(ligne par ligne),
  - proposez des amélioration,
  - ...
 
- ## Article 5 - Requête (clause)
+## Article IV - Requête (clause)
  Créez des branches versionnée pour proposez :
- -  une modification/amélioration,
- -  une suppression,
- -  une modification 
- -  ...
+ - ajouter
+ - une modification/amélioration,
+ - une suppression,
+ - une modification 
+ - ...
+
+## Article V - Documenter vos Déôts
+### Article 1 : Doc A
+#### Section 1.1 : Doc A.1
+#### Section 1.2 : Doc A.1-1
