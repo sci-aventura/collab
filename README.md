@@ -38,7 +38,7 @@ Faites une relecture:
 
 ## Article IV - Requête (clause)
  Créez des branches versionnée pour proposez :
- - ajouter
+ - ajouter du contenue
  - une modification/amélioration,
  - une suppression,
  - une modification 
